@@ -28,8 +28,6 @@ echo "<script>window.location.href ='index.php'</script>";
 </head>
 
     <body>
-
-    <!-- ################# Header Starts Here#######################--->
     
       <header id="menu-jk">
     
@@ -66,10 +64,6 @@ echo "<script>window.location.href ='index.php'</script>";
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
             </ol>
-
-
-   
-
 
             <div class="carousel-inner">
                 <div class="carousel-item ">
